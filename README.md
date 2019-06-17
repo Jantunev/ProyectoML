@@ -4,6 +4,7 @@ Proyecto de curso Aprendizaje Automático
 A continuacion se enumaran los pasos para desarrollar el codigo el cual se emplea para detectar a pacientes con cancer al pulmon usando el dataset que se puede descargar por medio del siguiente link:
 
 https://drive.google.com/open?id=1RINTIrcQBbWBEfYkIeWiDBewsDDRwRqJ
+
 https://drive.google.com/open?id=197f3hclLKde2AHT7e1CQ6XCGsrkfcrNx
 
 1. Balancear la data:
