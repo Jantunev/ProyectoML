@@ -20,19 +20,23 @@ Script: 1_1_Balanceo_Undersampling_OverSampling.ipynb
 2. Resultados empleando el algoritmo Random forest:
 
 Ejecutar el código: 1_1_Balanceo_Undersampling_OverSampling.ipynb
+
 Mejor resultado usando kappa score =
 
 3. Resultados empleando el algoritmo Navie Bayes:
 
 Ejecutar el código: 7_NaiveBayes.ipynb
+
 Mejor resultado usando kappa score =
 
 4. Resultados empleando el algoritmo Support Vector Machine:
 
 Ejecutar el código: 6_SVM.ipynb
+
 Mejor resultado usando kappa score =
 
 5. Resultados empleando el algoritmo Support Vector Machine:
 
 Ejecutar el código: 5_NeuronalNetwork.ipynb
+
 Mejor resultado usando kappa score =
