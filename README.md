@@ -42,5 +42,5 @@ Mejor resultado usando kappa score = 98.62% (Sin balancear la data 80.06%)
 
 Ejecutar el código: 5_NeuronalNetwork.ipynb
 
-Mejor resultado usando kappa score = % (Sin balancear la data 86.66%)
+Mejor resultado usando kappa score = 98.16% (Sin balancear la data 86.66%)
 
