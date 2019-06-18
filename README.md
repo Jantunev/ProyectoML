@@ -30,16 +30,17 @@ Mejor resultado usando kappa score =
 
 Ejecutar el código: 7_NaiveBayes.ipynb
 
-Mejor resultado usando kappa score = 50.9%
+Mejor resultado usando kappa score = 88.95% (Sin balancear la data 50.9%)
 
 4. Resultados empleando el algoritmo Support Vector Machine:
 
 Ejecutar el código: 6_SVM.ipynb
 
-Mejor resultado usando kappa score = 80.06%
+Mejor resultado usando kappa score = 98.62% (Sin balancear la data 80.06%)
 
 5. Resultados empleando el algoritmo Support Vector Machine:
 
 Ejecutar el código: 5_NeuronalNetwork.ipynb
 
-Mejor resultado usando kappa score = 86.66%
+Mejor resultado usando kappa score = % (Sin balancear la data 86.66%)
+
